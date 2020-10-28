@@ -9,6 +9,9 @@ app = Flask(__name__)
 def hello_world():
     return 'У меня получилось!'
 
+@app.route('/hello')
+def greeting():
+    return 'Welcome to Flask!'
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0')
