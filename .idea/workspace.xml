@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73cb8d69-5a5b-49f1-8c15-6898aa0548d8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/main.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +26,7 @@
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="flask-app" type="PythonConfigurationType" factoryName="Python">
@@ -58,7 +60,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1603830235703</updated>
-      <workItem from="1603830236769" duration="712000" />
+      <workItem from="1603830236769" duration="1776000" />
+      <workItem from="1603904964158" duration="1110000" />
     </task>
     <servers />
   </component>
@@ -70,5 +73,9 @@
       <screen x="-3640" y="0" width="2560" height="1440" />
     </state>
     <state x="-2626" y="421" key="FileChooserDialogImpl/-3640.0.2560.1440/0.0.1200.1920/-1080.0.1080.1920@-3640.0.2560.1440" timestamp="1603830296131" />
+    <state x="-2931" y="282" key="SettingsEditor" timestamp="1603905034347">
+      <screen x="-3640" y="0" width="2560" height="1440" />
+    </state>
+    <state x="-2931" y="282" key="SettingsEditor/-3640.0.2560.1440/0.0.1200.1920/-1080.0.1080.1920@-3640.0.2560.1440" timestamp="1603905034347" />
   </component>
 </project>
