@@ -50,7 +50,6 @@ jobs:
         host: ${{ secrets.HOST_DO }}
         username: ${{ secrets.USER_DO }}
         key: ${{ secrets.SSH_KEY_DO }}
-        passphrase: ${{ secrets.PASSPHRASE }}
         script: |
           sudo docker pull dmitrytrc/flaskdemo_dm
           sudo docker stop $(sudo docker ps -a -q)
